@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello World from Flask using Python 3.5"
+    return "Hello Bangalore! This is Flask using Python 3.5 on Linux Web Apps"
 
 @app.route("/index")
 def main():
