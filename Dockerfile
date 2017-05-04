@@ -32,7 +32,9 @@ COPY sshd_config /etc/ssh/
 COPY init_container.sh /bin/
 
 # Install uwsgi
-RUN pip install uwsgi
+RUN pip install uwsgi \
+  && chmod 755 /bin/init_container.sh
+  
 COPY uwsgi.ini /etc/uwsgi/
 
 # Install flask
