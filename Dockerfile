@@ -11,14 +11,10 @@ RUN apt-key adv --keyserver hkp://pgp.mit.edu:80 --recv-keys 573BFD6B3D8FBC64107
 	&& apt-get install -y --no-install-recommends --no-install-suggests \ 
 	            ca-certificates \
 	            nginx=${NGINX_VERSION} \
-	            nginx-module-xslt \
-	            nginx-module-geoip \
-				nginx-module-image-filter \
-				nginx-module-perl \
-				nginx-module-njs \
 	            gettext-base \
 	            supervisor \
 	            openssh-server \
+	            dos2unix \
 	&& rm -rf /var/lib/apt/lists/* \
 	&& ln -sf /dev/stdout /var/log/nginx/access.log \
 	&& ln -sf /dev/stderr /var/log/nginx/error.log \
@@ -30,13 +26,15 @@ COPY nginx.conf /etc/nginx/conf.d/
 COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf	
 COPY sshd_config /etc/ssh/
 COPY init_container.sh /bin/
+COPY uwsgi.ini /etc/uwsgi/
 
 # Install uwsgi
 RUN pip install uwsgi \
+  && dos2unix /bin/init_container.sh \
+  && dos2unix /etc/ssh/sshd_config \
+  && dos2unix /etc/uwsgi/uwsgi.ini \
   && chmod 755 /bin/init_container.sh
   
-COPY uwsgi.ini /etc/uwsgi/
-
 # Install flask
 RUN pip install flask
 

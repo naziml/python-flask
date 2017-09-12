@@ -1,0 +1,784 @@
+Storage subscription management certificate: 46E1640E0CD154264613C07D87E17AA8E7BE4F67
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+<COMMENT>	Storage wawsinfraprodam2125 found in subscription dfd63738-33a6-4da3-8609-d2253275693b.
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+<COMMENT>	Storage account metrics enabled for wawsinfraprodam2125: Account: wawsinfraprodam2125
+	---Metrics Monitoring (Hourly)---
+Blobs: ServiceAndApi	/ Retention (Days): 7
+Tables: ServiceAndApi	/ Retention (Days): 7
+Queues: ServiceAndApi	/ Retention (Days): 7
+	---Metrics Monitoring (Minute)---
+Blobs: Service	/ Retention (Days): 7
+Tables: Service	/ Retention (Days): 7
+Queues: Service	/ Retention (Days): 7
+	---Logging---
+Blobs: All	/ Retention (Days): 7
+Tables: None	/ Retention (Days): Forever
+Queues: None	/ Retention (Days): Forever
+
+Setting Client Certificate Hash: 46E1640E0CD154264613C07D87E17AA8E7BE4F67
+
+Transferring files from C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\feed-rapidupdate to http://wawsinfraprodam2125.blob.core.windows.net/feed-rapidupdate (maxthreads=64) ...
+
+Loading C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\Tools\Antares\rapidupdate.xml...
+
+Transfer 0 total, 0 successful, 0 failed, 211 skipped, 45ms
+
+Checking value for EnableRapidUpdateDuringPrevalidation and it is False
+Storage subscriptionId: dfd63738-33a6-4da3-8609-d2253275693b
+Storage subscription management certificate: 46E1640E0CD154264613C07D87E17AA8E7BE4F67
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+<COMMENT>	Storage wawsinfraprodam2125 found in subscription dfd63738-33a6-4da3-8609-d2253275693b.
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+<COMMENT>	Storage account metrics enabled for wawsinfraprodam2125: Account: wawsinfraprodam2125
+	---Metrics Monitoring (Hourly)---
+Blobs: ServiceAndApi	/ Retention (Days): 7
+Tables: ServiceAndApi	/ Retention (Days): 7
+Queues: ServiceAndApi	/ Retention (Days): 7
+	---Metrics Monitoring (Minute)---
+Blobs: Service	/ Retention (Days): 7
+Tables: Service	/ Retention (Days): 7
+Queues: Service	/ Retention (Days): 7
+	---Logging---
+Blobs: All	/ Retention (Days): 7
+Tables: None	/ Retention (Days): Forever
+Queues: None	/ Retention (Days): Forever
+
+Setting Client Certificate Hash: 46E1640E0CD154264613C07D87E17AA8E7BE4F67
+Creating container policy
+Getting CloudBlobClient from StorageConnectionString
+CloudBlob Endpoint is: http://wawsinfraprodam2125.blob.core.windows.net/
+Policy created successfully
+Container token generated successfully
+Creating blob token
+Getting Cloud Blob Client
+Getting CloudBlobClient from StorageConnectionString
+CloudBlob Endpoint is: http://wawsinfraprodam2125.blob.core.windows.net/
+Getting Cloud Blob Container for feed-rapidupdate
+Getting Blob reference form the server : main/feeds/latest/rapidupdate.xml
+Getting SAS
+Blob token generated successfully
+Mounting network share location C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33
+Feed source: C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\feed-ant64-003
+Storage subscriptionId: dfd63738-33a6-4da3-8609-d2253275693b
+Storage subscription management certificate: 46E1640E0CD154264613C07D87E17AA8E7BE4F67
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+<COMMENT>	Storage wawsinfraprodam2125 found in subscription dfd63738-33a6-4da3-8609-d2253275693b.
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+<COMMENT>	Storage account metrics enabled for wawsinfraprodam2125: Account: wawsinfraprodam2125
+	---Metrics Monitoring (Hourly)---
+Blobs: ServiceAndApi	/ Retention (Days): 7
+Tables: ServiceAndApi	/ Retention (Days): 7
+Queues: ServiceAndApi	/ Retention (Days): 7
+	---Metrics Monitoring (Minute)---
+Blobs: Service	/ Retention (Days): 7
+Tables: Service	/ Retention (Days): 7
+Queues: Service	/ Retention (Days): 7
+	---Logging---
+Blobs: All	/ Retention (Days): 7
+Tables: None	/ Retention (Days): Forever
+Queues: None	/ Retention (Days): Forever
+
+Setting Client Certificate Hash: 46E1640E0CD154264613C07D87E17AA8E7BE4F67
+
+Transferring files from C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\feed-ant64-003 to http://wawsinfraprodam2125.blob.core.windows.net/feed-ant64-003 (maxthreads=64) ...
+
+
+Transfer 0 total, 0 successful, 0 failed, 301 skipped, 127ms
+
+Storage subscriptionId: dfd63738-33a6-4da3-8609-d2253275693b
+Storage subscription management certificate: 46E1640E0CD154264613C07D87E17AA8E7BE4F67
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+<COMMENT>	Storage wawsinfraprodam2125 found in subscription dfd63738-33a6-4da3-8609-d2253275693b.
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+<COMMENT>	Storage account metrics enabled for wawsinfraprodam2125: Account: wawsinfraprodam2125
+	---Metrics Monitoring (Hourly)---
+Blobs: ServiceAndApi	/ Retention (Days): 7
+Tables: ServiceAndApi	/ Retention (Days): 7
+Queues: ServiceAndApi	/ Retention (Days): 7
+	---Metrics Monitoring (Minute)---
+Blobs: Service	/ Retention (Days): 7
+Tables: Service	/ Retention (Days): 7
+Queues: Service	/ Retention (Days): 7
+	---Logging---
+Blobs: All	/ Retention (Days): 7
+Tables: None	/ Retention (Days): Forever
+Queues: None	/ Retention (Days): Forever
+
+Setting Client Certificate Hash: 46E1640E0CD154264613C07D87E17AA8E7BE4F67
+Creating container policy
+Getting CloudBlobClient from StorageConnectionString
+CloudBlob Endpoint is: http://wawsinfraprodam2125.blob.core.windows.net/
+Policy created successfully
+Container token generated successfully
+Creating blob token
+Getting Cloud Blob Client
+Getting CloudBlobClient from StorageConnectionString
+CloudBlob Endpoint is: http://wawsinfraprodam2125.blob.core.windows.net/
+Getting Cloud Blob Container for feed-ant64-003
+Getting Blob reference form the server : main/feeds/latest/webproductlist.xml
+Getting SAS
+Blob token generated successfully
+Storage subscriptionId: dfd63738-33a6-4da3-8609-d2253275693b
+Storage subscription management certificate: 46E1640E0CD154264613C07D87E17AA8E7BE4F67
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+<COMMENT>	Storage wawsinfraprodam2125 found in subscription dfd63738-33a6-4da3-8609-d2253275693b.
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+AntaresDeployment.exe Information: 0 : The current value matched the requested value. No change was made.
+<COMMENT>	Storage account metrics enabled for wawsinfraprodam2125: Account: wawsinfraprodam2125
+	---Metrics Monitoring (Hourly)---
+Blobs: ServiceAndApi	/ Retention (Days): 7
+Tables: ServiceAndApi	/ Retention (Days): 7
+Queues: ServiceAndApi	/ Retention (Days): 7
+	---Metrics Monitoring (Minute)---
+Blobs: Service	/ Retention (Days): 7
+Tables: Service	/ Retention (Days): 7
+Queues: Service	/ Retention (Days): 7
+	---Logging---
+Blobs: All	/ Retention (Days): 7
+Tables: None	/ Retention (Days): Forever
+Queues: None	/ Retention (Days): Forever
+
+Setting Client Certificate Hash: 46E1640E0CD154264613C07D87E17AA8E7BE4F67
+mapping.SettingName:LinuxVhdxUrl; 2017-07-26T22:01:09.5248874Z
+=========Validating VHDX file (File=linux.vhdx.lz4)=========
+<ERROR>	Vhdx file not found. Location: C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\osvhd-201707-3\linux.vhdx.lz4.
+<ERROR>	Value for LinuxVhdxUrl is null or empty
+mapping.SettingName:SqlServer; 2017-07-26T22:01:09.5405121Z
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+Sql servers:
+    j6dd1sdv0j - sqladmin001 (West Europe)
+    o72j3gxemk - sqladmin001 (West Europe)
+    gip78c8cks - sqladmin001 (North Europe)
+    w7owgp982r - sqladmin001 (North Europe)
+Sql Azure server o72j3gxemk is found
+mapping.SettingName:HostingSqlServer; 2017-07-26T22:01:12.9468970Z
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+Sql servers:
+    j6dd1sdv0j - sqladmin001 (West Europe)
+    o72j3gxemk - sqladmin001 (West Europe)
+    gip78c8cks - sqladmin001 (North Europe)
+    w7owgp982r - sqladmin001 (North Europe)
+Sql Azure server o72j3gxemk is found
+mapping.SettingName:AdministrationSqlServer; 2017-07-26T22:01:14.6344619Z
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+Sql servers:
+    j6dd1sdv0j - sqladmin001 (West Europe)
+    o72j3gxemk - sqladmin001 (West Europe)
+    gip78c8cks - sqladmin001 (North Europe)
+    w7owgp982r - sqladmin001 (North Europe)
+Sql Azure server o72j3gxemk is found
+mapping.SettingName:MeteringSqlServer; 2017-07-26T22:01:16.2282687Z
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+Sql servers:
+    j6dd1sdv0j - sqladmin001 (West Europe)
+    o72j3gxemk - sqladmin001 (West Europe)
+    gip78c8cks - sqladmin001 (North Europe)
+    w7owgp982r - sqladmin001 (North Europe)
+Sql Azure server j6dd1sdv0j is found
+mapping.SettingName:SecondaryHostingSqlServer; 2017-07-26T22:01:17.0251809Z
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+Sql servers:
+    gip78c8cks - sqladmin001 (North Europe)
+    w7owgp982r - sqladmin001 (North Europe)
+    j6dd1sdv0j - sqladmin001 (West Europe)
+    o72j3gxemk - sqladmin001 (West Europe)
+Sql Azure server gip78c8cks is found
+mapping.SettingName:SecondaryMeteringSqlServer; 2017-07-26T22:01:18.6550151Z
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+Sql servers:
+    gip78c8cks - sqladmin001 (North Europe)
+    w7owgp982r - sqladmin001 (North Europe)
+    j6dd1sdv0j - sqladmin001 (West Europe)
+    o72j3gxemk - sqladmin001 (West Europe)
+Sql Azure server w7owgp982r is found
+mapping.SettingName:HostingDatabaseConnectionString; 2017-07-26T22:01:19.3112912Z
+Database Connection Mapping for HostingDatabaseConnectionString
+2017-07-26T22:01:20.9832317Z: Sql Azure server o72j3gxemk connection test succeeded. No need to add firewall rule.
+Creating Login hosting_HostingAdmin:4, Role HostingAdminRole, User HostingAdmin
+Database connection validation succeeded for HostingDatabaseConnectionString 
+Database Connection Mapping for HostingDatabaseConnectionString Done
+mapping.SettingName:HostingDatabaseWorkerManagerConnectionString; 2017-07-26T22:01:40.4517613Z
+Database Connection Mapping for HostingDatabaseWorkerManagerConnectionString
+2017-07-26T22:01:40.4687626Z: Sql Azure server o72j3gxemk connection test succeeded. No need to add firewall rule.
+Creating Login hosting_WebWorkerManager:4, Role WebWorkerManagerRole, User WebWorkerManager
+Database connection validation succeeded for HostingDatabaseWorkerManagerConnectionString 
+Database Connection Mapping for HostingDatabaseWorkerManagerConnectionString Done
+mapping.SettingName:HostingDatabaseFileServerConnectionString; 2017-07-26T22:07:59.1253284Z
+Database Connection Mapping for HostingDatabaseFileServerConnectionString
+2017-07-26T22:08:00.4534809Z: Sql Azure server o72j3gxemk connection test succeeded. No need to add firewall rule.
+Creating Login hosting_FileServer:4, Role FileServerRole, User FileServer
+Database connection validation succeeded for HostingDatabaseFileServerConnectionString 
+Database Connection Mapping for HostingDatabaseFileServerConnectionString Done
+mapping.SettingName:MeteringDatabaseConnectionString; 2017-07-26T22:08:08.6677648Z
+Database Connection Mapping for MeteringDatabaseConnectionString
+2017-07-26T22:08:10.1366102Z: Sql Azure server j6dd1sdv0j connection test succeeded. No need to add firewall rule.
+Creating Login metering_ResourceMetering:4, Role ResourceMeteringRole, User ResourceMetering
+Database connection validation succeeded for MeteringDatabaseConnectionString 
+Database Connection Mapping for MeteringDatabaseConnectionString Done
+mapping.SettingName:AdministrationDatabaseConnectionString; 2017-07-26T22:08:27.0429868Z
+Database Connection Mapping for AdministrationDatabaseConnectionString
+2017-07-26T22:08:27.0429868Z: Sql Azure server o72j3gxemk connection test succeeded. No need to add firewall rule.
+Creating Login hosting_HostingAdmin:4, Role db_owner, User HostingAdmin
+Database connection validation succeeded for AdministrationDatabaseConnectionString 
+Database Connection Mapping for AdministrationDatabaseConnectionString Done
+mapping.SettingName:HostingDatabaseSecurePublisherConnectionString; 2017-07-26T22:08:36.1935928Z
+Database Connection Mapping for HostingDatabaseSecurePublisherConnectionString
+2017-07-26T22:08:36.1935928Z: Sql Azure server o72j3gxemk connection test succeeded. No need to add firewall rule.
+Creating Login hosting_SecurePublisher:4, Role SecurePublisherRole, User SecurePublisher
+Database connection validation succeeded for HostingDatabaseSecurePublisherConnectionString 
+Database Connection Mapping for HostingDatabaseSecurePublisherConnectionString Done
+mapping.SettingName:MonitoringXStoreAccounts; 2017-07-26T22:08:45.1572171Z
+====Validating MDS Settings for Stamp: waws-prod-am2-125====
+Lock b3d886ef-f088-4c9d-b98a-a28d6a8e1ce8 created.
+Last validated version path: WAWS\WAWS_Prod\waws-prod-am2-125\MDS.LastValidatedVersion
+Exporting Geneva cert WAWS/WAWS_Prod/waws-prod-am2-125/waws-prod-am2-125-ma_02.pfx from secret store to C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\Tools\Antares\mds\2fbkqhp4.5tu-mds.cer...
+Done.
+Last validated version: 64.0.8598.2
+Current build version: 64.0.8598.2
+Last validated thumbprint: 4d9366f403b4bf3e2b1d732b4acb8a4376dae36d
+Current build thumbprint: 4d9366f403b4bf3e2b1d732b4acb8a4376dae36d
+Skipping MDS validation
+<COMMENT>	End of MDS validation steps
+Lock b3d886ef-f088-4c9d-b98a-a28d6a8e1ce8 released.
+mapping.SettingName:LinuxMonitoringXStoreAccounts; 2017-07-26T22:08:47.0322985Z
+====Validating MDS Settings for Stamp: waws-prod-am2-125====
+Lock ec9af11c-9c5c-4558-9385-3511abb57e59 created.
+Last validated version path: WAWS\WAWS_Prod\waws-prod-am2-125\MDS.Linux.LastValidatedVersion
+Exporting Geneva cert WAWS/WAWS_Prod/waws-prod-am2-125/waws-prod-am2-125-ma_02.pfx from secret store to C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\Tools\Antares\mds\pzeahdg3.vkg-mds.cer...
+Done.
+Last validated version: 64.0.8598.2
+Current build version: 64.0.8598.2
+Last validated thumbprint: 4d9366f403b4bf3e2b1d732b4acb8a4376dae36d
+Current build thumbprint: 4d9366f403b4bf3e2b1d732b4acb8a4376dae36d
+Skipping MDS validation
+<COMMENT>	End of MDS validation steps
+Lock ec9af11c-9c5c-4558-9385-3511abb57e59 released.
+mapping.SettingName:AvailableCryptoConfigurations; 2017-07-26T22:08:48.4694502Z
+<COMMENT>	Reading SiteRuntimeSymmetricKey key from WAWS\WAWS_Prod\waws-prod-am2-125\SiteRuntimeSymmetricKey.txt
+<COMMENT>	Reading SystemCoreSymmetricKey key from WAWS\WAWS_Prod\waws-prod-am2-125\SystemCoreSymmetricKey.txt
+<COMMENT>	Validating new crypto configurations WAWS\WAWS_Prod\waws-prod-am2-125\AvailableCryptoConfigurations
+<COMMENT>	symmetric key SiteRuntime is validated
+<COMMENT>	symmetric key SystemCore is validated
+mapping.SettingName:AvailableTokenAuthConfigurations; 2017-07-26T22:08:48.5625474Z
+<COMMENT>	Reading TokenAuthSymmetricKey key from WAWS\WAWS_Prod\waws-prod-am2-125\TokenAuthSymmetricKey
+<COMMENT>	Validating new crypto configurations WAWS\WAWS_Prod\waws-prod-am2-125\AvailableTokenAuthConfigurations
+<COMMENT>	symmetric key TokenAuth is validated
+<COMMENT>	Developer secrets in C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares\LockboxConfigs\Prod\waws-prod-am2-125\Mapping.xml validated
+=========Validating Antares Stamp: waws-prod-am2-125========
+=======================Validating RDFE======================
+Subscription: dfd63738-33a6-4da3-8609-d2253275693b
+SecretStoreEndpoint: https://production.secretstore.core.windows.net
+EnvironmentPrefix: WAWS\WAWS_Prod
+SecretStoreManagementCertificate: WAWS\WAWS_Prod\waws-prod-am2-125\waws-prod-am2-125-mgmt-autorot_Current.pfx
+DeveloperDefinitionsParser ctor, Prevalidate, C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares\Service.definitions, C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares\LockboxConfigs\Prod\waws-prod-am2-125\stamp.definitions, False, C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares
+RdfeIntegrationEnabled: true
+RdfeEndpointUri: https://admin.core.windows.net/ServiceManagementSSL.svc
+RdfeClientCertThumbprint path: @[certificate(WAWS\WAWS_Prod\RDFEAuthenticationWawsProd_02.pfx)]
+RdfeClientCertThumbprint: 4EDC2E8D532AA017DC7CB0B4D4CDC4A2D6BADAAA
+RdfeDstsEnabled: true
+RdfeDstsMetadataEndpoint: https://admin.core.windows.net/DSTSMetaData.svc/GetAuthenticationMetadata
+RdfeDstsEndpoint: https://admin.core.windows.net/ServiceManagementDSTS.svc
+RdfeDstsServiceName: RDFEInternalAPI
+RdfeDstsClientCertThumbprint path: @[certificate(WAWS\WAWS_Prod\waws-prod-rdfe-dsts.pfx)]
+RdfeDstsClientCertThumbprint: 0277966A46A5E7CB9FB8386FE1D06921FBCCB7BA
+Calling RDFE to get subscription co-admins
+Subscription co-admins found: 1
+============================DONE============================
+======Validating DNS certificates (using secret store)======
+<COMMENT>	SecretStoreEndpoint https://production.secretstore.core.windows.net
+<COMMENT>	EnvironmentPrefix WAWS\WAWS_Prod
+<COMMENT>	SecretStoreManagementCertificate WAWS\WAWS_Prod\waws-prod-am2-125\waws-prod-am2-125-mgmt-autorot_Current.pfx
+DeveloperDefinitionsParser ctor, Prevalidate, C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares\Service.definitions, C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares\LockboxConfigs\Prod\waws-prod-am2-125\stamp.definitions, False, C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares
+<COMMENT>	DnsServiceEndpoint https://adnsapi.azure.net
+<COMMENT>	DnsCertFindValue @[certificate(WAWS\WAWS_Prod\waws-prod-dns-tenant_02.pfx)]
+<COMMENT>	AdminDnsCertFindValue @[certificate(WAWS\WAWS_Prod\waws-prod-dns-admin_02.pfx)]
+<COMMENT>	DnsZone azurewebsites.net;azure-mobile.net
+<COMMENT>	AdminDnsZone azurewebsites.windows.net
+<COMMENT>	Evaluation sites cert (not admin)
+<COMMENT>	Evaluation admin cert
+Testing the DNS cert(s) for sites zone(s): azurewebsites.net;azure-mobile.net
+Testing the DNS cert for sites zone: azurewebsites.net
+API endpoint: https://adnsapi.azure.net
+Zone: azurewebsites.net
+Thumbprint: 2E91A885DDD6136A0312E1C56EA5E0D8FD8A755D
+Subject name: CN=waws-to-dns-tenant.azurewebsites.windows.net
+<COMMENT>	Certificate 2E91A885DDD6136A0312E1C56EA5E0D8FD8A755D works fine with the DNS zone azurewebsites.net.
+Testing the DNS cert for sites zone: azure-mobile.net
+API endpoint: https://adnsapi.azure.net
+Zone: azure-mobile.net
+Thumbprint: 2E91A885DDD6136A0312E1C56EA5E0D8FD8A755D
+Subject name: CN=waws-to-dns-tenant.azurewebsites.windows.net
+<COMMENT>	Certificate 2E91A885DDD6136A0312E1C56EA5E0D8FD8A755D works fine with the DNS zone azure-mobile.net.
+Testing the DNS cert for admin zone
+API endpoint: https://adnsapi.azure.net
+Zone: azurewebsites.windows.net
+Thumbprint: 95FE9564EBF5EA8C3599D8DB1145EAF4AD106AE4
+Subject name: CN=waws-to-dns-admin.azurewebsites.windows.net
+<COMMENT>	Certificate 95FE9564EBF5EA8C3599D8DB1145EAF4AD106AE4 works fine with the DNS zone azurewebsites.windows.net.
+============================DONE============================
+DeveloperDefinitionsParser ctor, Validate, C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares\Service.definitions, C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares\LockboxConfigs\Prod\waws-prod-am2-125\stamp.definitions, True, C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares
+Getting value from secret store failed. Secret store url: https://production.secretstore.core.windows.net. Exception: System.Exception: WAWS\WAWS_Prod\waws-prod-am2-125\osvhd-201707-3\LinuxVhdxUrl ---> System.ServiceModel.EndpointNotFoundException: EX: System.ServiceModel.EndpointNotFoundException: Server side exception -1:Microsoft.ServiceModel.Web2.WebProtocolException: Cannot find secret with name 'WAWS/WAWS_Prod/waws-prod-am2-125/osvhd-201707-3/LinuxVhdxUrl'
+   at Microsoft.Cis.Security.StashBox.svc.StashService.checkUserPolicyAndOwner(Qos qos, DBConnectionLockable connection, Func`2 getSecret, String objectName)
+   at Microsoft.Cis.Security.StashBox.svc.StashService.<>c__DisplayClass28`1.<handleReadRequestWithOwner>b__24()
+   at Microsoft.Cis.Security.StashBox.svc.StashService.<>c__DisplayClass1b`1.<handleRequest>b__18()
+   at Microsoft.Cis.Security.StashBox.svc.StashService.handleRequest[T](Qos qos, Func`1 process, Func`3 backupResult, Func`2 excResult) ---> System.ServiceModel.EndpointNotFoundException: There was no endpoint listening at https://production.secretstore.core.windows.net/CertSvcDSTS.svc/PasswordOwner/WAWS/WAWS_Prod/waws-prod-am2-125/osvhd-201707-3/LinuxVhdxUrl that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. ---> System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- End of inner exception stack trace ---
+
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at Microsoft.WindowsAzure.Security.Authentication.DatacenterWebChannel.Request(Message message, TimeSpan timeout)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   at System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   at System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeEndService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [1]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Microsoft.Cis.Security.StashBox.svc.IStashServiceAsync.EndGetPasswordDecrypted(IAsyncResult result)
+   at Microsoft.Cis.Security.StashBox.svc.StashServiceProxy.<>c__DisplayClass391`1.<execute>b__379()
+   at Microsoft.Cis.Security.StashBox.utils.RWLockHelper.ReadLock[T](ReaderWriterLockSlim lockObj, Func`1 action)
+   at Microsoft.Cis.Security.StashBox.svc.StashServiceProxy.execute[T](Func`1 func, Id functionId)
+   --- End of inner exception stack trace ---
+   at Microsoft.Cis.Security.StashBox.svc.StashServiceProxy.execute[T](Func`1 func, Id functionId)
+   at AntaresDeployment.Azure.SecretStoreReverseProxy.<>c__DisplayClass25.<GetPasswordDecrypted>b__24()
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute() ---> System.Net.WebException: Not Found
+   --- End of inner exception stack trace ---
+   at DeploymentOrchestration.Common.DeploymentOrchestrationProxy.Unwrap[T](Func`1 func, String memberName)
+   at DeploymentOrchestration.Common.SecretCacheBase`1.GetCacheWrapper(String path, Func`1 getFunction)
+   at XmlTemplateProcessor.Definitions.<EvaluateExpression>b__46(String name)
+   --- End of inner exception stack trace ---
+   at XmlTemplateProcessor.Definitions.<EvaluateExpression>b__46(String name)
+   at XmlTemplateProcessor.Definitions.GetValueFromSecretStore[T](String key, Func`2 getResult, Func`2 convertToValue)
+<ERROR>	Error loading C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares\LockboxConfigs\Prod\waws-prod-am2-125\stamp.definitions: System.Exception: WAWS\WAWS_Prod\waws-prod-am2-125\osvhd-201707-3\LinuxVhdxUrl ---> System.ServiceModel.EndpointNotFoundException: EX: System.ServiceModel.EndpointNotFoundException: Server side exception -1:Microsoft.ServiceModel.Web2.WebProtocolException: Cannot find secret with name 'WAWS/WAWS_Prod/waws-prod-am2-125/osvhd-201707-3/LinuxVhdxUrl'
+   at Microsoft.Cis.Security.StashBox.svc.StashService.checkUserPolicyAndOwner(Qos qos, DBConnectionLockable connection, Func`2 getSecret, String objectName)
+   at Microsoft.Cis.Security.StashBox.svc.StashService.<>c__DisplayClass28`1.<handleReadRequestWithOwner>b__24()
+   at Microsoft.Cis.Security.StashBox.svc.StashService.<>c__DisplayClass1b`1.<handleRequest>b__18()
+   at Microsoft.Cis.Security.StashBox.svc.StashService.handleRequest[T](Qos qos, Func`1 process, Func`3 backupResult, Func`2 excResult) ---> System.ServiceModel.EndpointNotFoundException: There was no endpoint listening at https://production.secretstore.core.windows.net/CertSvcDSTS.svc/PasswordOwner/WAWS/WAWS_Prod/waws-prod-am2-125/osvhd-201707-3/LinuxVhdxUrl that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. ---> System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- End of inner exception stack trace ---
+
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at Microsoft.WindowsAzure.Security.Authentication.DatacenterWebChannel.Request(Message message, TimeSpan timeout)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   at System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   at System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeEndService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [1]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Microsoft.Cis.Security.StashBox.svc.IStashServiceAsync.EndGetPasswordDecrypted(IAsyncResult result)
+   at Microsoft.Cis.Security.StashBox.svc.StashServiceProxy.<>c__DisplayClass391`1.<execute>b__379()
+   at Microsoft.Cis.Security.StashBox.utils.RWLockHelper.ReadLock[T](ReaderWriterLockSlim lockObj, Func`1 action)
+   at Microsoft.Cis.Security.StashBox.svc.StashServiceProxy.execute[T](Func`1 func, Id functionId)
+   --- End of inner exception stack trace ---
+   at Microsoft.Cis.Security.StashBox.svc.StashServiceProxy.execute[T](Func`1 func, Id functionId)
+   at AntaresDeployment.Azure.SecretStoreReverseProxy.<>c__DisplayClass25.<GetPasswordDecrypted>b__24()
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute() ---> System.Net.WebException: Not Found
+   --- End of inner exception stack trace ---
+   at DeploymentOrchestration.Common.DeploymentOrchestrationProxy.Unwrap[T](Func`1 func, String memberName)
+   at DeploymentOrchestration.Common.SecretCacheBase`1.GetCacheWrapper(String path, Func`1 getFunction)
+   at XmlTemplateProcessor.Definitions.<EvaluateExpression>b__46(String name)
+   --- End of inner exception stack trace ---
+   at XmlTemplateProcessor.Definitions.<EvaluateExpression>b__46(String name)
+   at XmlTemplateProcessor.Definitions.GetValueFromSecretStore[T](String key, Func`2 getResult, Func`2 convertToValue)
+<ERROR>	Error loading C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares\LockboxConfigs\Prod\waws-prod-am2-125\stamp.definitions: Error occurred while evaluating value for '@[password(WAWS\WAWS_Prod\waws-prod-am2-125\osvhd-201707-3\LinuxVhdxUrl)]'. Error: WAWS\WAWS_Prod\waws-prod-am2-125\osvhd-201707-3\LinuxVhdxUrl not defined
+<ERROR>	Error loading C:\Deployments\1b418589-573a-49bc-9c79-f94be014ee33\DeployConsole\waws-prod-am2-125\Antares_Prevalidation\PROD.Antares\LockboxConfigs\Prod\waws-prod-am2-125\stamp.definitions: XmlTemplateProcessor.ReferenceNotDefinedException: WAWS\WAWS_Prod\waws-prod-am2-125\osvhd-201707-3\LinuxVhdxUrl not defined
+   at XmlTemplateProcessor.Definitions.GetValueFromSecretStore[T](String key, Func`2 getResult, Func`2 convertToValue)
+   at XmlTemplateProcessor.Definitions.<EvaluateExpression>b__45(String key)
+   at XmlTemplateProcessor.Definitions.ReplaceValueInExpression(String expression, Regex regex, String format, Func`2 getValue)
+   at XmlTemplateProcessor.Definitions.EvaluateExpression(String value, Boolean forceExpansion)
+   at XmlTemplateProcessor.Definitions.ProcessDefine(String name, String value, DefineMode mode)
+   at XmlTemplateProcessor.Definitions.ProcessDefine(XElement nav, DefineMode mode)
+   at XmlTemplateProcessor.Definitions.ProcessDefinitionElement(XElement node)
+===================Validating subscription==================
+Setting Client Certificate Hash: 46E1640E0CD154264613C07D87E17AA8E7BE4F67
+Subscription Id set
+Subscription Id: dfd63738-33a6-4da3-8609-d2253275693b
+DefinitionFile is null or empty, restoring default
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+Services: 
+    waws-prod-am2-125
+    waws-prod-am2-125a
+    waws-prod-am2-125b
+    waws-prod-am2-125c
+    waws-prod-am2-125d
+<COMMENT>	Subscription has been validated
+=========Validating hosted service waws-prod-am2-125========
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+ServiceName: waws-prod-am2-125
+Url: https://management.core.windows.net/dfd63738-33a6-4da3-8609-d2253275693b/services/hostedservices/waws-prod-am2-125
+Description: waws-prod-am2-125
+Label: waws-prod-am2-125
+Location: West Europe
+AffinityGroup: 
+<COMMENT>	Hosted service has been validated
+========Validating storage server for private-storage=======
+<COMMENT>	Active storage account: 1
+<COMMENT>	Storage key: storagekey1
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+ServiceName: wawsstorageprodam2125
+Url: https://management.core.windows.net/dfd63738-33a6-4da3-8609-d2253275693b/services/storageservices/wawsstorageprodam2125
+Description: wawsstorageprodam2125
+Label: wawsstorageprodam2125
+Location: West Europe
+AffinityGroup: 
+Listing containers for wawsstorageprodam2125
+antaresstoragetelemetry
+clone-backups
+config
+dataservice
+packages
+relocation-backups
+rolepatches
+storagedomain-default
+List containers for wawsstorageprodam2125 succeed
+=================Validating storage volumes=================
+Storage volume count is 50, maximum supported is 80 (16 file servers, 5 drives / machine)
+========================Validating OS=======================
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+OS family 98 found
+WA-GUEST-OS-98.48_201706-01 found
+<COMMENT>	OS validation succeeded
+====================Validating Data Role====================
+Data Role Size validation bypassed as DeploymentSlot is not passed in.
+===========Validating Web Platform Installer feed===========
+Url: http://wawsinfraprodam2125.blob.core.windows.net/feed-ant64-003/main/feeds/latest/webproductlist.xml?sv=2014-02-14&sr=c&si=feed-ant64-003&sig=4Nod3RelRudxlKCMlvSCNAiH6JDQphgOPzlunkBedfQ%3D
+Checksum: neAOCvKT8x7jAzAXNedkdA==
+<COMMENT>	Web Platform Installer feed validation succeeded
+============Validating Sql Azure server SqlServer===========
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+Sql servers:
+    gip78c8cks - sqladmin001 (North Europe)
+    w7owgp982r - sqladmin001 (North Europe)
+    j6dd1sdv0j - sqladmin001 (West Europe)
+    o72j3gxemk - sqladmin001 (West Europe)
+Sql Azure server o72j3gxemk is found
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+Firewall rules for o72j3gxemk
+    AutoDeploymentRule0 169.254.0.0-169.254.0.255
+    Extra-104.210.8.47-104.210.8.47 104.210.8.47-104.210.8.47
+    Extra-104.210.90.65-104.210.90.65 104.210.90.65-104.210.90.65
+    Extra-104.211.160.94-104.211.160.229 104.211.160.94-104.211.160.229
+    Extra-104.211.224.154-104.211.225.66 104.211.224.154-104.211.225.66
+    Extra-104.211.96.193-104.211.96.193 104.211.96.193-104.211.96.193
+    Extra-104.211.98.24-104.211.98.24 104.211.98.24-104.211.98.24
+    Extra-104.214.68.197-104.214.68.197 104.214.68.197-104.214.68.197
+    Extra-104.215.158.33-104.215.158.33 104.215.158.33-104.215.158.33
+    Extra-104.41.185.116-104.41.185.116 104.41.185.116-104.41.185.116
+    Extra-104.41.46.178-104.41.46.178 104.41.46.178-104.41.46.178
+    Extra-104.42.233.234-104.42.233.234 104.42.233.234-104.42.233.234
+    Extra-104.42.239.23-104.42.239.23 104.42.239.23-104.42.239.23
+    Extra-104.43.165.73-104.43.165.73 104.43.165.73-104.43.165.73
+    Extra-104.44.129.141-104.44.129.255 104.44.129.141-104.44.129.255
+    Extra-104.44.134.255-104.44.134.255 104.44.134.255-104.44.134.255
+    Extra-104.44.139.189-104.44.139.189 104.44.139.189-104.44.139.189
+    Extra-104.45.227.37-104.45.227.37 104.45.227.37-104.45.227.37
+    Extra-104.46.108.135-104.46.108.135 104.46.108.135-104.46.108.135
+    Extra-13.66.225.188-13.66.225.188 13.66.225.188-13.66.225.188
+    Extra-13.66.228.122-13.66.228.122 13.66.228.122-13.66.228.122
+    Extra-13.75.127.117-13.75.127.117 13.75.127.117-13.75.127.117
+    Extra-13.78.146.93-13.78.146.93 13.78.146.93-13.78.146.93
+    Extra-13.78.148.75-13.78.148.75 13.78.148.75-13.78.148.75
+    Extra-13.87.34.78-13.87.34.78 13.87.34.78-13.87.34.78
+    Extra-13.87.97.222-13.87.97.222 13.87.97.222-13.87.97.222
+    Extra-13.94.141.115-13.94.141.115 13.94.141.115-13.94.141.115
+    Extra-13.94.143.126-13.94.143.126 13.94.143.126-13.94.143.126
+    Extra-13.94.149.179-13.94.149.179 13.94.149.179-13.94.149.179
+    Extra-137.116.32.35-137.116.32.36 137.116.32.35-137.116.32.36
+    Extra-137.135.49.84-137.135.49.84 137.135.49.84-137.135.49.84
+    Extra-137.135.80.55-137.135.80.55 137.135.80.55-137.135.80.55
+    Extra-138.91.1.124-138.91.1.124 138.91.1.124-138.91.1.124
+    Extra-138.91.17.42-138.91.17.42 138.91.17.42-138.91.17.42
+    Extra-138.91.224.194-138.91.224.194 138.91.224.194-138.91.224.194
+    Extra-138.91.226.10-138.91.226.215 138.91.226.10-138.91.226.215
+    Extra-168.61.144.14-168.61.144.14 168.61.144.14-168.61.144.14
+    Extra-168.62.225.21-168.62.225.22 168.62.225.21-168.62.225.22
+    Extra-168.62.226.18-168.62.226.19 168.62.226.18-168.62.226.19
+    Extra-168.62.26.116-168.62.26.116 168.62.26.116-168.62.26.116
+    Extra-168.62.48.13-168.62.48.122 168.62.48.13-168.62.48.122
+    Extra-168.63.134.201-168.63.134.201 168.63.134.201-168.63.134.201
+    Extra-168.63.205.111-168.63.205.111 168.63.205.111-168.63.205.111
+    Extra-168.63.255.159-168.63.255.159 168.63.255.159-168.63.255.159
+    Extra-191.233.94.45-191.233.94.45 191.233.94.45-191.233.94.45
+    Extra-191.236.154.88-191.236.154.88 191.236.154.88-191.236.154.88
+    Extra-191.236.60.72-191.236.60.72 191.236.60.72-191.236.60.72
+    Extra-191.236.84.50-191.236.85.43 191.236.84.50-191.236.85.43
+    Extra-191.237.222.191-191.237.222.191 191.237.222.191-191.237.222.191
+    Extra-191.239.104.48-191.239.104.48 191.239.104.48-191.239.104.48
+    Extra-191.239.160.30-191.239.160.30 191.239.160.30-191.239.160.30
+    Extra-191.239.64.53-191.239.64.53 191.239.64.53-191.239.64.53
+    Extra-207.46.144.46-207.46.144.91 207.46.144.46-207.46.144.91
+    Extra-207.46.148.246-207.46.148.246 207.46.148.246-207.46.148.246
+    Extra-207.68.190.0-207.68.190.248 207.68.190.0-207.68.190.248
+    Extra-213.199.132.248-213.199.132.248 213.199.132.248-213.199.132.248
+    Extra-23.100.32.186-23.100.32.186 23.100.32.186-23.100.32.186
+    Extra-23.100.40.2-23.100.40.2 23.100.40.2-23.100.40.2
+    Extra-23.100.40.244-23.100.40.246 23.100.40.244-23.100.40.246
+    Extra-23.101.234.41-23.101.234.41 23.101.234.41-23.101.234.41
+    Extra-23.102.188.65-23.102.188.65 23.102.188.65-23.102.188.65
+    Extra-23.96.219.44-23.96.219.44 23.96.219.44-23.96.219.44
+    Extra-23.96.48.132-23.96.48.132 23.96.48.132-23.96.48.132
+    Extra-23.97.55.137-23.97.55.137 23.97.55.137-23.97.55.137
+    Extra-23.97.97.27-23.97.97.27 23.97.97.27-23.97.97.27
+    Extra-23.99.115.5-23.99.115.5 23.99.115.5-23.99.115.5
+    Extra-23.99.217.42-23.99.217.42 23.99.217.42-23.99.217.42
+    Extra-25.4.0.0-25.4.255.255 25.4.0.0-25.4.255.255
+    Extra-40.127.134.161-40.127.134.161 40.127.134.161-40.127.134.161
+    Extra-40.74.56.30-40.74.56.30 40.74.56.30-40.74.56.30
+    Extra-40.78.146.17-40.78.146.17 40.78.146.17-40.78.146.17
+    Extra-40.83.120.64-40.83.120.64 40.83.120.64-40.83.120.64
+    Extra-40.83.121.56-40.83.121.56 40.83.121.56-40.83.121.56
+    Extra-40.83.125.161-40.83.125.161 40.83.125.161-40.83.125.161
+    Extra-40.83.179.85-40.83.179.222 40.83.179.85-40.83.179.222
+    Extra-40.83.180.221-40.83.180.221 40.83.180.221-40.83.180.221
+    Extra-40.83.183.69-40.83.183.69 40.83.183.69-40.83.183.69
+    Extra-40.84.158.242-40.84.158.242 40.84.158.242-40.84.158.242
+    Extra-40.85.227.45-40.85.227.45 40.85.227.45-40.85.227.45
+    Extra-40.85.230.101-40.85.230.101 40.85.230.101-40.85.230.101
+    Extra-40.86.228.132-40.86.229.100 40.86.228.132-40.86.229.100
+    Extra-51.140.184.10-51.140.184.10 51.140.184.10-51.140.184.10
+    Extra-51.141.8.10-51.141.8.34 51.141.8.10-51.141.8.34
+    Extra-52.165.152.214-52.165.153.122 52.165.152.214-52.165.153.122
+    Extra-52.165.154.193-52.165.154.193 52.165.154.193-52.165.154.193
+    Extra-52.165.158.140-52.165.158.140 52.165.158.140-52.165.158.140
+    Extra-52.174.22.21-52.174.22.21 52.174.22.21-52.174.22.21
+    Extra-52.178.177.147-52.178.177.147 52.178.177.147-52.178.177.147
+    Extra-52.178.184.149-52.178.184.149 52.178.184.149-52.178.184.149
+    Extra-52.178.190.65-52.178.190.65 52.178.190.65-52.178.190.65
+    Extra-52.178.195.197-52.178.195.197 52.178.195.197-52.178.195.197
+    Extra-52.187.56.50-52.187.56.50 52.187.56.50-52.187.56.50
+    Extra-52.187.59.251-52.187.59.251 52.187.59.251-52.187.59.251
+    Extra-52.187.63.19-52.187.63.37 52.187.63.19-52.187.63.37
+    Extra-52.231.200.82-52.231.200.82 52.231.200.82-52.231.200.82
+    Extra-52.231.32.39-52.231.32.39 52.231.32.39-52.231.32.39
+    Extra-65.52.193.203-65.52.193.203 65.52.193.203-65.52.193.203
+    Extra-65.52.219.194-65.52.219.194 65.52.219.194-65.52.219.194
+    Extra-65.52.229.85-65.52.229.85 65.52.229.85-65.52.229.85
+    Extra-65.52.33.118-65.52.33.118 65.52.33.118-65.52.33.118
+    Extra-65.52.54.220-65.52.54.220 65.52.54.220-65.52.54.220
+    Extra-70.37.89.222-70.37.89.222 70.37.89.222-70.37.89.222
+    MicrosoftAzureServices 0.0.0.0-0.0.0.0
+    ReadOnlyViewsRule0 131.107.0.0-131.107.255.255
+    ReadOnlyViewsRule1 167.220.0.0-167.220.255.255
+    ServicePublishers-52.233.128.177-52.233.128.186 52.233.128.177-52.233.128.186
+    ServicePublishers-52.233.131.34-52.233.132.13 52.233.131.34-52.233.132.13
+    Service-ServicePublishers-52.233.133.6-52.233.133.121 52.233.133.6-52.233.133.121
+    ServiceVips-13.81.1.156-13.81.1.156 13.81.1.156-13.81.1.156
+    ServiceVips-52.166.75.172-52.166.75.172 52.166.75.172-52.166.75.172
+    ServiceVips-52.174.193.130-52.174.193.130 52.174.193.130-52.174.193.130
+    ServiceVips-52.233.185.35-52.233.185.35 52.233.185.35-52.233.185.35
+2017-07-26T22:09:03.6434444Z: Sql Azure server o72j3gxemk connection test succeeded. No need to add firewall rule.
+Sql Azure database o72j3gxemk connection test succeeded
+========Validating Sql Azure server MeteringSqlServer=======
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+Sql servers:
+    j6dd1sdv0j - sqladmin001 (West Europe)
+    o72j3gxemk - sqladmin001 (West Europe)
+    gip78c8cks - sqladmin001 (North Europe)
+    w7owgp982r - sqladmin001 (North Europe)
+Sql Azure server j6dd1sdv0j is found
+DefinitionFile: %INETROOT%\projects\Hosting\Azure\service.definitions
+Creating RDFE ServiceManagement client using cert with thumbprint '46E1640E0CD154264613C07D87E17AA8E7BE4F67' and endpoint 'https://management.core.windows.net'
+Firewall rules for j6dd1sdv0j
+    AutoDeploymentRule0 169.254.0.0-169.254.0.255
+    Extra-104.210.8.47-104.210.8.47 104.210.8.47-104.210.8.47
+    Extra-104.210.90.65-104.210.90.65 104.210.90.65-104.210.90.65
+    Extra-104.211.160.94-104.211.160.229 104.211.160.94-104.211.160.229
+    Extra-104.211.224.154-104.211.225.66 104.211.224.154-104.211.225.66
+    Extra-104.211.96.193-104.211.96.193 104.211.96.193-104.211.96.193
+    Extra-104.211.98.24-104.211.98.24 104.211.98.24-104.211.98.24
+    Extra-104.214.68.197-104.214.68.197 104.214.68.197-104.214.68.197
+    Extra-104.215.158.33-104.215.158.33 104.215.158.33-104.215.158.33
+    Extra-104.41.185.116-104.41.185.116 104.41.185.116-104.41.185.116
+    Extra-104.41.46.178-104.41.46.178 104.41.46.178-104.41.46.178
+    Extra-104.42.233.234-104.42.233.234 104.42.233.234-104.42.233.234
+    Extra-104.42.239.23-104.42.239.23 104.42.239.23-104.42.239.23
+    Extra-104.43.165.73-104.43.165.73 104.43.165.73-104.43.165.73
+    Extra-104.44.129.141-104.44.129.255 104.44.129.141-104.44.129.255
+    Extra-104.44.134.255-104.44.134.255 104.44.134.255-104.44.134.255
+    Extra-104.44.139.189-104.44.139.189 104.44.139.189-104.44.139.189
+    Extra-104.45.227.37-104.45.227.37 104.45.227.37-104.45.227.37
+    Extra-104.46.108.135-104.46.108.135 104.46.108.135-104.46.108.135
+    Extra-13.66.225.188-13.66.225.188 13.66.225.188-13.66.225.188
+    Extra-13.66.228.122-13.66.228.122 13.66.228.122-13.66.228.122
+    Extra-13.75.127.117-13.75.127.117 13.75.127.117-13.75.127.117
+    Extra-13.78.146.93-13.78.146.93 13.78.146.93-13.78.146.93
+    Extra-13.78.148.75-13.78.148.75 13.78.148.75-13.78.148.75
+    Extra-13.87.34.78-13.87.34.78 13.87.34.78-13.87.34.78
+    Extra-13.87.97.222-13.87.97.222 13.87.97.222-13.87.97.222
+    Extra-13.94.141.115-13.94.141.115 13.94.141.115-13.94.141.115
+    Extra-13.94.143.126-13.94.143.126 13.94.143.126-13.94.143.126
+    Extra-13.94.149.179-13.94.149.179 13.94.149.179-13.94.149.179
+    Extra-137.116.32.35-137.116.32.36 137.116.32.35-137.116.32.36
+    Extra-137.135.49.84-137.135.49.84 137.135.49.84-137.135.49.84
+    Extra-137.135.80.55-137.135.80.55 137.135.80.55-137.135.80.55
+    Extra-138.91.1.124-138.91.1.124 138.91.1.124-138.91.1.124
+    Extra-138.91.17.42-138.91.17.42 138.91.17.42-138.91.17.42
+    Extra-138.91.224.194-138.91.224.194 138.91.224.194-138.91.224.194
+    Extra-138.91.226.10-138.91.226.215 138.91.226.10-138.91.226.215
+    Extra-168.61.144.14-168.61.144.14 168.61.144.14-168.61.144.14
+    Extra-168.62.225.21-168.62.225.22 168.62.225.21-168.62.225.22
+    Extra-168.62.226.18-168.62.226.19 168.62.226.18-168.62.226.19
+    Extra-168.62.26.116-168.62.26.116 168.62.26.116-168.62.26.116
+    Extra-168.62.48.13-168.62.48.122 168.62.48.13-168.62.48.122
+    Extra-168.63.134.201-168.63.134.201 168.63.134.201-168.63.134.201
+    Extra-168.63.205.111-168.63.205.111 168.63.205.111-168.63.205.111
+    Extra-168.63.255.159-168.63.255.159 168.63.255.159-168.63.255.159
+    Extra-191.233.94.45-191.233.94.45 191.233.94.45-191.233.94.45
+    Extra-191.236.154.88-191.236.154.88 191.236.154.88-191.236.154.88
+    Extra-191.236.60.72-191.236.60.72 191.236.60.72-191.236.60.72
+    Extra-191.236.84.50-191.236.85.43 191.236.84.50-191.236.85.43
+    Extra-191.237.222.191-191.237.222.191 191.237.222.191-191.237.222.191
+    Extra-191.239.104.48-191.239.104.48 191.239.104.48-191.239.104.48
+    Extra-191.239.160.30-191.239.160.30 191.239.160.30-191.239.160.30
+    Extra-191.239.64.53-191.239.64.53 191.239.64.53-191.239.64.53
+    Extra-207.46.144.46-207.46.144.91 207.46.144.46-207.46.144.91
+    Extra-207.46.148.246-207.46.148.246 207.46.148.246-207.46.148.246
+    Extra-207.68.190.0-207.68.190.248 207.68.190.0-207.68.190.248
+    Extra-213.199.132.248-213.199.132.248 213.199.132.248-213.199.132.248
+    Extra-23.100.32.186-23.100.32.186 23.100.32.186-23.100.32.186
+    Extra-23.100.40.2-23.100.40.2 23.100.40.2-23.100.40.2
+    Extra-23.100.40.244-23.100.40.246 23.100.40.244-23.100.40.246
+    Extra-23.101.234.41-23.101.234.41 23.101.234.41-23.101.234.41
+    Extra-23.102.188.65-23.102.188.65 23.102.188.65-23.102.188.65
+    Extra-23.96.219.44-23.96.219.44 23.96.219.44-23.96.219.44
+    Extra-23.96.48.132-23.96.48.132 23.96.48.132-23.96.48.132
+    Extra-23.97.55.137-23.97.55.137 23.97.55.137-23.97.55.137
+    Extra-23.97.97.27-23.97.97.27 23.97.97.27-23.97.97.27
+    Extra-23.99.115.5-23.99.115.5 23.99.115.5-23.99.115.5
+    Extra-23.99.217.42-23.99.217.42 23.99.217.42-23.99.217.42
+    Extra-25.4.0.0-25.4.255.255 25.4.0.0-25.4.255.255
+    Extra-40.127.134.161-40.127.134.161 40.127.134.161-40.127.134.161
+    Extra-40.74.56.30-40.74.56.30 40.74.56.30-40.74.56.30
+    Extra-40.78.146.17-40.78.146.17 40.78.146.17-40.78.146.17
+    Extra-40.83.120.64-40.83.120.64 40.83.120.64-40.83.120.64
+    Extra-40.83.121.56-40.83.121.56 40.83.121.56-40.83.121.56
+    Extra-40.83.125.161-40.83.125.161 40.83.125.161-40.83.125.161
+    Extra-40.83.179.85-40.83.179.222 40.83.179.85-40.83.179.222
+    Extra-40.83.180.221-40.83.180.221 40.83.180.221-40.83.180.221
+    Extra-40.83.183.69-40.83.183.69 40.83.183.69-40.83.183.69
+    Extra-40.84.158.242-40.84.158.242 40.84.158.242-40.84.158.242
+    Extra-40.85.227.45-40.85.227.45 40.85.227.45-40.85.227.45
+    Extra-40.85.230.101-40.85.230.101 40.85.230.101-40.85.230.101
+    Extra-40.86.228.132-40.86.229.100 40.86.228.132-40.86.229.100
+    Extra-51.140.184.10-51.140.184.10 51.140.184.10-51.140.184.10
+    Extra-51.141.8.10-51.141.8.34 51.141.8.10-51.141.8.34
+    Extra-52.165.152.214-52.165.153.122 52.165.152.214-52.165.153.122
+    Extra-52.165.154.193-52.165.154.193 52.165.154.193-52.165.154.193
+    Extra-52.165.158.140-52.165.158.140 52.165.158.140-52.165.158.140
+    Extra-52.174.22.21-52.174.22.21 52.174.22.21-52.174.22.21
+    Extra-52.178.177.147-52.178.177.147 52.178.177.147-52.178.177.147
+    Extra-52.178.184.149-52.178.184.149 52.178.184.149-52.178.184.149
+    Extra-52.178.190.65-52.178.190.65 52.178.190.65-52.178.190.65
+    Extra-52.178.195.197-52.178.195.197 52.178.195.197-52.178.195.197
+    Extra-52.187.56.50-52.187.56.50 52.187.56.50-52.187.56.50
+    Extra-52.187.59.251-52.187.59.251 52.187.59.251-52.187.59.251
+    Extra-52.187.63.19-52.187.63.37 52.187.63.19-52.187.63.37
+    Extra-52.231.200.82-52.231.200.82 52.231.200.82-52.231.200.82
+    Extra-52.231.32.39-52.231.32.39 52.231.32.39-52.231.32.39
+    Extra-65.52.193.203-65.52.193.203 65.52.193.203-65.52.193.203
+    Extra-65.52.219.194-65.52.219.194 65.52.219.194-65.52.219.194
+    Extra-65.52.229.85-65.52.229.85 65.52.229.85-65.52.229.85
+    Extra-65.52.33.118-65.52.33.118 65.52.33.118-65.52.33.118
+    Extra-65.52.54.220-65.52.54.220 65.52.54.220-65.52.54.220
+    Extra-70.37.89.222-70.37.89.222 70.37.89.222-70.37.89.222
+    MicrosoftAzureServices 0.0.0.0-0.0.0.0
+    ReadOnlyViewsRule0 131.107.0.0-131.107.255.255
+    ReadOnlyViewsRule1 167.220.0.0-167.220.255.255
+    ServicePublishers-52.233.128.177-52.233.128.186 52.233.128.177-52.233.128.186
+    ServicePublishers-52.233.131.34-52.233.132.13 52.233.131.34-52.233.132.13
+    Service-ServicePublishers-52.233.133.6-52.233.133.121 52.233.133.6-52.233.133.121
+    ServiceVips-13.81.1.156-13.81.1.156 13.81.1.156-13.81.1.156
+    ServiceVips-52.166.75.172-52.166.75.172 52.166.75.172-52.166.75.172
+    ServiceVips-52.174.193.130-52.174.193.130 52.174.193.130-52.174.193.130
+    ServiceVips-52.233.185.35-52.233.185.35 52.233.185.35-52.233.185.35
+2017-07-26T22:09:09.1140530Z: Sql Azure server j6dd1sdv0j connection test succeeded. No need to add firewall rule.
+Sql Azure database j6dd1sdv0j connection test succeeded
+AntaresDeployment failed: System.Exception: Validation Failed with 5 errors (scroll up to find <ERROR> tags to see what's wrong)
+   at AntaresDeployment.ConfigurationValidation.ValidationTool.ValidateStamp(String hostedServiceName, String developerDefinitionsPath, Boolean validateDatabase) in x:\btsdx\834938\services\websites\src4\Hosting\Azure\tools\src\AntaresDeployment\ConfigurationValidation\ValidationTool.cs:line 805
+   at AntaresDeployment.ConfigurationValidation.ValidationTool.PreValidateStamp(String hostedService) in x:\btsdx\834938\services\websites\src4\Hosting\Azure\tools\src\AntaresDeployment\ConfigurationValidation\ValidationTool.cs:line 1000
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at CommandLineHelper.CommandMethod.Invoke(String[] args)
+   at CommandLineHelper.Helper.Main(String[] args)
+   at AntaresDeployment.Program.Main(String[] args) in x:\btsdx\834938\services\websites\src4\Hosting\Azure\tools\src\AntaresDeployment\Program.cs:line 51
+Cache saved to secretCache.SecretCachePassword.data (68)
+Cache saved to secretCache.SecretCacheCertificate.data (13)
+Cache saved to secretCache.SecretCacheCertificateInfo.data (33)
+Cache saved to secretCache.SecretCacheStorageAccount.data (13)
+Process exited with code 1
+Action failed : Generate the stamp developer definition file
+--------------------------------------------
+
+Total Time wasted: 01:45:38.1934648
+<ORCHESTRATOR> 7/26/2017 10:09:11 PM Next automatic retry in 00:30:00 at 7/26/2017 10:39:11 PM, maximum delay is 00:30:00
